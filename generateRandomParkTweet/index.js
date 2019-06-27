@@ -11,7 +11,7 @@ const T = new Twit({
 });
 
 const states = {
-    "AL": "Alabama",
+    "AL": "Bama",
     "AK": "Alaska",
     "AZ": "Arizona",
     "AR": "Arkansas",
